@@ -6,6 +6,9 @@ import streamlit as st
 from pandasai import Agent
 from PyPDF2 import PdfReader
 
+os.environ["PANDASAI_API_KEY"] = "$2a$10$CaKQ9kHgCVNpBfGlZHtbCemZRZi6F5hq2Y20r/Q6Yfcl/UrJp8O8e"
+
+
 # Title of the app
 st.title("File Analysis Tool")
 
