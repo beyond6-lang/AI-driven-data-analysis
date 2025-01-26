@@ -38,7 +38,7 @@ openpyxl==3.1.2
 pandasai==2.4.2
 PyPDF2
 phidata
-streamlit
+
 Groq
 sqlalchemy
 duckduckgo-search
