@@ -12,7 +12,7 @@ opt-einsum==3.3.0
 packaging==23.1
 pandas==1.5.3
 pandas-profiling==3.2.0
-streamlit==1.22.0
+
 streamlit-apexjs==0.0.3
 streamlit-card==0.0.4
 streamlit-elements==0.1.0
@@ -37,5 +37,11 @@ openpyxl==3.1.2
 
 pandasai==2.4.2
 PyPDF2
+phidata
+streamlit
+Groq
+sqlalchemy
+duckduckgo-search
+newspaper4k lxml_html_clean
 
 
