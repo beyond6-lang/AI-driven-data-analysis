@@ -42,6 +42,8 @@ phidata
 Groq
 sqlalchemy
 duckduckgo-search
-newspaper4k lxml_html_clean
+newspaper4k 
+lxml_html_clean
+
 
 
